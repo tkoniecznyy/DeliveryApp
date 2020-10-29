@@ -16,6 +16,7 @@
 		22072A41254AEDE500C02031 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22072A3F254AEDE500C02031 /* LaunchScreen.storyboard */; };
 		22072A4C254AEDE500C02031 /* DeliveryAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22072A4B254AEDE500C02031 /* DeliveryAppTests.swift */; };
 		22072A57254AEDE500C02031 /* DeliveryAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22072A56254AEDE500C02031 /* DeliveryAppUITests.swift */; };
+		22072A65254AEFEF00C02031 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 22072A64254AEFEF00C02031 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		22072A52254AEDE500C02031 /* DeliveryAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeliveryAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22072A56254AEDE500C02031 /* DeliveryAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryAppUITests.swift; sourceTree = "<group>"; };
 		22072A58254AEDE500C02031 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22072A64254AEFEF00C02031 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		22072A25254AEDE400C02031 = {
 			isa = PBXGroup;
 			children = (
+				22072A64254AEFEF00C02031 /* .gitignore */,
 				22072A30254AEDE400C02031 /* DeliveryApp */,
 				22072A4A254AEDE500C02031 /* DeliveryAppTests */,
 				22072A55254AEDE500C02031 /* DeliveryAppUITests */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22072A65254AEFEF00C02031 /* .gitignore in Resources */,
 				22072A41254AEDE500C02031 /* LaunchScreen.storyboard in Resources */,
 				22072A3E254AEDE500C02031 /* Preview Assets.xcassets in Resources */,
 				22072A3B254AEDE500C02031 /* Assets.xcassets in Resources */,
